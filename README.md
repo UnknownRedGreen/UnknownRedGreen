@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @UnknownRedGreen
+- 👀 I’m interested in JAVA
+- 🌱 I’m currently learning Java
+- ⚡ Fun fact: JAVA
+- Java
