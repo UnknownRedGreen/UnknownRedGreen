@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UnknownRedGreen
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning Java
-- ⚡ Fun fact: JAVA
-- Java
+- 👀 I’m interested in Java and C#
+- 🌱 I’m currently learning Java and C#
+- ⚡ Fun fact: Java and C#
+- Java and C#
